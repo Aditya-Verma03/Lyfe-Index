@@ -1,7 +1,7 @@
 <h1 align="center">LyfeIndex</h1>
 
 <p align="center">
-![localhost_3000_](https://user-images.githubusercontent.com/83290798/232341958-86920ce4-93f7-4ae8-b2c6-f400a1165fdd.png)
+![Screenshot of LyfeIndex homepage](https://user-images.githubusercontent.com/83290798/232341958-86920ce4-93f7-4ae8-b2c6-f400a1165fdd.png?raw=true)
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@
 ## 📷 Screenshots
 
 <p align="center">
-    ![localhost_3000_ (4)](https://user-images.githubusercontent.com/83290798/232341989-e6132f4e-00cc-4268-b07e-35a8e6455f67.png)
+    ![working screenshot](https://user-images.githubusercontent.com/83290798/232341989-e6132f4e-00cc-4268-b07e-35a8e6455f67.png?raw=true)
 
 </p>
 
